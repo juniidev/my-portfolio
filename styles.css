@@ -333,14 +333,12 @@ label {
   width: 95%;
 }
 .skills__css {
-  width: 85%;
+  width: 80%;
 }
 .skills__js {
   width: 65%;
 }
-.skills__ux {
-  width: 85%;
-}
+
 .skills__img {
   border-radius: 0.5rem;
 }
